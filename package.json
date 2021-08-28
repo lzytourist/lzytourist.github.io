@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss src/styles.css -o dist/styles.css"
+  },
+  "keywords": ["protfolio", "lzytourist"],
+  "author": "Monowar Hossain Khan",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.8"
+  }
+}
